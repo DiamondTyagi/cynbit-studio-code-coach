@@ -3,6 +3,10 @@
 Submission for the **AI/ML Engineer Intern** task: *Identify an AI Opportunity for Cynbit*.
 Author: Diamond Tyagi
 
+## A note on how this was built
+
+I used an AI assistant (Claude) to help with research, drafting and code. I reviewed and tested the code (`pytest` passes) and I can explain every part of it.
+
 ## The idea in one paragraph
 
 Cynbit Studio's public page promises AI coding missions, AI code evaluation and AI mentor support.
